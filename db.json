@@ -1,184 +1,79 @@
 {
-  "employees": [
+  "books": [
     {
       "id": 1,
-      "name": "Ankur Singh",
-      "employee_id": 101,
-      "department": "HR",
-      "experience": 8,
-      "email": "ankur@gmail.com",
-      "mobile": 8504899838
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Ankur",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 1299,
+      "borrowed": false,
+      "name": "ANkur"
     },
     {
       "id": 2,
-      "name": "Aayush Singh",
-      "employee_id": 102,
-      "department": "Finance",
-      "experience": 4,
-      "email": "aayush@gmail.com",
-      "mobile": 8504899838
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Aayush",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2020",
+      "publisher": "Bloomsbury",
+      "cost": 1299,
+      "borrowed": false
     },
     {
       "id": 3,
-      "name": "Rishu Singh",
-      "employee_id": 103,
-      "department": "Engineering",
-      "experience": 4,
-      "email": "rishu@gmail.com",
-      "mobile": 8504899838
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2022",
+      "publisher": "Bloomsbury",
+      "cost": 1459,
+      "borrowed": false
     },
     {
       "id": 4,
-      "name": "Prince Singh",
-      "employee_id": 104,
-      "department": "HR",
-      "experience": 5,
-      "email": "prince@gmail.com",
-      "mobile": 8504899838
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 1299,
+      "borrowed": false
     },
     {
       "id": 5,
-      "name": "Ankur Singh",
-      "employee_id": "6954",
-      "department": "Finance",
-      "experience": "66",
-      "email": "ankursingh@gmail.com",
-      "mobile": "6456"
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2020",
+      "publisher": "Bloomsbury",
+      "cost": 1299,
+      "borrowed": false
     },
     {
-      "id": 6,
-      "name": "Ankur Singh",
-      "employee_id": 101,
-      "department": "HR",
-      "experience": 8,
-      "email": "ankur@gmail.com",
-      "mobile": 8504899838
-    },
+      "image_url": "https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg",
+      "book_name": "gsdhgdfgjfg",
+      "author": "sjhAnkur",
+      "genre": "fiction",
+      "edition": "2020",
+      "publisher": "Ankur",
+      "cost": "125",
+      "borrowed": false,
+      "id": 8
+    }
+  ],
+
+  "borrowed": [
     {
-      "id": 7,
-      "name": "Aayush Singh",
-      "employee_id": 102,
-      "department": "Finance",
-      "experience": 4,
-      "email": "aayush@gmail.com",
-      "mobile": 8504899838
-    },
-    {
-      "id": 8,
-      "name": "Rishu Singh",
-      "employee_id": 103,
-      "department": "Engineering",
-      "experience": 4,
-      "email": "rishu@gmail.com",
-      "mobile": 8504899838
-    },
-    {
-      "id": 9,
-      "name": "Prince Singh",
-      "employee_id": 104,
-      "department": "HR",
-      "experience": 5,
-      "email": "prince@gmail.com",
-      "mobile": 8504899838
-    },
-    {
-      "id": 10,
-      "name": "Ankur Singh",
-      "employee_id": "6954",
-      "department": "Finance",
-      "experience": "66",
-      "email": "ankursingh@gmail.com",
-      "mobile": "6456"
-    },
-    {
-      "id": 11,
-      "name": "Ankur Singh",
-      "employee_id": 101,
-      "department": "HR",
-      "experience": 8,
-      "email": "ankur@gmail.com",
-      "mobile": 8504899838
-    },
-    {
-      "id": 12,
-      "name": "Aayush Singh",
-      "employee_id": 102,
-      "department": "Finance",
-      "experience": 4,
-      "email": "aayush@gmail.com",
-      "mobile": 8504899838
-    },
-    {
-      "id": 13,
-      "name": "Rishu Singh",
-      "employee_id": 103,
-      "department": "Engineering",
-      "experience": 4,
-      "email": "rishu@gmail.com",
-      "mobile": 8504899838
-    },
-    {
-      "id": 14,
-      "name": "Prince Singh",
-      "employee_id": 104,
-      "department": "HR",
-      "experience": 5,
-      "email": "prince@gmail.com",
-      "mobile": 8504899838
-    },
-    {
-      "id": 15,
-      "name": "Ankur Singh",
-      "employee_id": "6954",
-      "department": "Finance",
-      "experience": "66",
-      "email": "ankursingh@gmail.com",
-      "mobile": "6456"
-    },
-    {
-      "id": 16,
-      "name": "Ankur Singh",
-      "employee_id": 101,
-      "department": "HR",
-      "experience": 8,
-      "email": "ankur@gmail.com",
-      "mobile": 8504899838
-    },
-    {
-      "id": 17,
-      "name": "Aayush Singh",
-      "employee_id": 102,
-      "department": "Finance",
-      "experience": 4,
-      "email": "aayush@gmail.com",
-      "mobile": 8504899838
-    },
-    {
-      "id": 18,
-      "name": "Rishu Singh",
-      "employee_id": 103,
-      "department": "Engineering",
-      "experience": 4,
-      "email": "rishu@gmail.com",
-      "mobile": 8504899838
-    },
-    {
-      "id": 19,
-      "name": "Prince Singh",
-      "employee_id": 104,
-      "department": "HR",
-      "experience": 5,
-      "email": "prince@gmail.com",
-      "mobile": 8504899838
-    },
-    {
-      "id": 20,
-      "name": "Deepak",
-      "employee_id": "6954",
-      "department": "Finance",
-      "experience": "66",
-      "email": "ankursingh@gmail.com",
-      "mobile": "6456"
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
     }
   ],
   "comments": [
