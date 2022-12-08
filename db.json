@@ -76,6 +76,11 @@
       "postId": 1
     }
   ],
+
+
+
+
+
   "comments": [
     {
       "id": 1,
@@ -83,7 +88,46 @@
       "postId": 1
     }
   ],
-  "profile": {
-    "name": "typicode"
+
+
+
+
+  
+    "posts": [
+      {
+        "gif": "https://media2.giphy.com/media/3o6Zt481isNVuQI1l6/giphy-downsized.gif?cid=0a14631bboh6nv9luo6o6uviee5o0n7ckk8lvg77copdd69q&rid=giphy-downsized.gif&ct=g",
+        "title": "Ankur",
+        "id": 24
+      },
+      {
+        "gif": "https://media2.giphy.com/media/8xomIW1DRelmo/giphy.gif?cid=0a14631buiw5sg9gocjrci30iu9g56uqjhxwopb1o784bde1&rid=giphy.gif&ct=g",
+        "title": "ironman",
+        "id": 25
+      },
+      {
+        "gif": "https://media2.giphy.com/media/3o6Zt481isNVuQI1l6/giphy-downsized.gif?cid=0a14631bboh6nv9luo6o6uviee5o0n7ckk8lvg77copdd69q&rid=giphy-downsized.gif&ct=g",
+        "title": "dog",
+        "id": 29
+      }
+    ],
+    "users": [
+      {
+        "avatar": "https://i.pravatar.cc/300",
+        "fullname": "Thakur",
+        "email": "abhisheksolanki1020@gmail.com",
+        "password": "1234",
+        "id": 1
+      },
+      {
+        "avatar": "https://i.pravatar.cc/300",
+        "fullname": "Abhi",
+        "email": "abhisheksolanki10@gmail.com",
+        "password": "1234",
+        "id": 2
+      }
+    ]
   }
-}
+ 
+
+
+  
