@@ -55,17 +55,6 @@
       "publisher": "Bloomsbury",
       "cost": 1299,
       "borrowed": false
-    },
-    {
-      "image_url": "https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg",
-      "book_name": "gsdhgdfgjfg",
-      "author": "sjhAnkur",
-      "genre": "fiction",
-      "edition": "2020",
-      "publisher": "Ankur",
-      "cost": "125",
-      "borrowed": false,
-      "id": 8
     }
   ],
 
